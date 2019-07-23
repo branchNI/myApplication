@@ -41,7 +41,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Windows/Temp/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{39BB4E0E-83A1-472F-9B1D-FFF11B7E1F80}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1BF94E68-7D29-4E93-8659-658FB5F44D00}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/add.vi</Property>
