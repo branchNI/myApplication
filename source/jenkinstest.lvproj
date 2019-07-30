@@ -41,7 +41,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Windows/Temp/jenkins/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{40A79F80-FAA8-4AF8-86D4-6BB5E81732AA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{64947B89-97FF-4F07-BD43-9F33B5AEB76D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/add.vi</Property>
